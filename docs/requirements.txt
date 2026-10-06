@@ -1,0 +1,8 @@
+# La caja de herramientas del taller — se instala UNA vez (Python: Create Environment)
+requests
+pandas
+matplotlib
+ipykernel
+scikit-learn
+ydata-profiling
+setuptools<81   # ydata-profiling aún importa pkg_resources
