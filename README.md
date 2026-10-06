@@ -15,7 +15,7 @@ romper nada, porque no hay nada que romper. Cada quien entrena en **su propia co
 ## Un dato para calentar
 
 El cerebro humano tiene alrededor de **86 mil millones de neuronas**, conectadas por billones de
-sinapsis. Por eso puedes leer esta línea.
+sinapsis. Por eso puedes leer esta línea. ¿No es muy loco?
 
 ## El código
 
