@@ -7,7 +7,7 @@
 
 def celsius_a_fahrenheit(celsius):
     """Convierte grados Celsius a Fahrenheit."""
-    return celsius * 5 / 9 + 32
+    return celsius * 9 / 5 + 32
 
 
 def fahrenheit_a_celsius(fahrenheit):
